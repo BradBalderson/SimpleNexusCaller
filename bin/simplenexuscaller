@@ -1,0 +1,9 @@
+#!/usr/bin/env python3
+import sys
+
+if sys.version_info.major <= 2:
+    raise ValueError( "SimpleNexusCaller requires python version 3 or higher" )
+
+from simplenexuscaller import simplenexuscaller
+
+simplenexuscaller.main()

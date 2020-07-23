@@ -1,0 +1,5 @@
+
+TODO:
+    * Add notes which gives general overview of the different scripts and how
+        they work together to create the desired functionality.
+    * Test simplenexuscaller installation and run on downloaded data.
